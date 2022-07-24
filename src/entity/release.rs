@@ -182,5 +182,6 @@ impl_includes!(
     (with_ratings, Include::Rating),
     (with_aliases, Include::Aliases),
     (with_genres, Include::Genres),
-    (with_annotations, Include::Annotations)
+    (with_annotations, Include::Annotations),
+    (with_artist_credits, Include::ArtistCredits),
 );
