@@ -183,5 +183,5 @@ impl_includes!(
     (with_aliases, Include::Aliases),
     (with_genres, Include::Genres),
     (with_annotations, Include::Annotations),
-    (with_artist_credits, Include::ArtistCredits),
+    (with_artist_credits, Include::ArtistCredits)
 );
